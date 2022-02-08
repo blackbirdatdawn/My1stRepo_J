@@ -6,3 +6,4 @@ es geht weiter
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+**This is written in bold**
